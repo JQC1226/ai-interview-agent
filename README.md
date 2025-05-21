@@ -41,4 +41,6 @@ An AI-powered, voice-interactive interview assistant built with [Vapi.ai](https:
 
 ## Live Demo
 
+> 🔗 [Try it now on Vercel](https://ai-interview-agent-peach.vercel.app/)
+
 ---
